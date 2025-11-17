@@ -1,0 +1,30 @@
+# Task 01 — Inbox & Priority Triage
+
+## Objective
+Show how you triage a busy inbox to reduce response time and escalate priorities correctly.
+
+## Success criteria
+- Clear written process (labels, filters, templates)
+- Before/after metrics (counts, average response time if available)
+- 3–5 email templates for common queries
+- `deliverable.md` and screenshots or exported email CSV
+
+## Suggested tools
+Gmail/Outlook, Google Sheets, Notion, Labels/Filters, canned responses
+
+## Deliverables
+- /samples/task-01/deliverable.md (process + metrics)
+- sample templates: `reply-template-1.md`, `reply-template-2.md`
+- optional: `inbox-snapshot-before.png`, `inbox-snapshot-after.png`
+
+# Deliverable — Task 01 (Inbox & Priority Triage)
+
+## Summary
+- Tools used: Gmail, Google Sheets
+- Actions: created labels, set filters, drafted 4 canned responses, triaged 120 messages (reduced to 10 actionable items)
+- Result: average response time reduced from 48 hours to 8 hours
+
+## Files
+- reply-template-general.md
+- inbox-before.png
+- inbox-after.png
